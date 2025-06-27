@@ -1,5 +1,5 @@
 const messages = [
-  "Today is a special day, isn't it? 🎉",
+  "Today is the most special day of the year!! 🎉",
   "Happy 17th birthday, Leishaa! 🥳",
   "Do you want to see a surprise? 🎁",
 ];
